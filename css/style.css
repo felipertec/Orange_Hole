@@ -1,0 +1,16 @@
+body{
+  background: black;
+}
+
+#page{
+  width: 90%;
+  height: 500px;
+  margin: 50px auto;
+  text-align: center;
+  color: rgba(121,125,232);
+}
+
+.orange{
+  width: 45%;
+  margin: 0 auto;
+}
